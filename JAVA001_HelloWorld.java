@@ -9,6 +9,7 @@ public class JAVA001_HelloWorld {
         System.out.println("--------------------");
         System.out.println("Hi, " + name + "!");
 
+        System.out.println("\n--------------------");
         System.out.println("#vduczz");
         sc.close();
     }
