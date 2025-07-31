@@ -34,6 +34,11 @@ public class JAVA003_Operators {
         System.out.println("a++ + ++b + b++ + ++a = " + (a++ + ++b + b++ + ++a) + ", a = " + a + " , b = " + b);
         // 3 (then a=4) + 6 (then b = 6) + 6 (then b = 7) + 5 (then a = 5) = 20
 
+        // Ternary Operator: boolean ? value if true : value if false
+        System.out.println("\n--------------------");
+        System.out.println("Ternary Operator:");
+        System.out.println("a > b ? a : b = " + (a > b ? a : b)); // 5 > 6 ? 5 : 6 = 6
+
         // Assignment Operators: =, +=, -=, *=, /=, %=
         System.out.println("\n--------------------");
         System.out.println("Assignment Operators:");
