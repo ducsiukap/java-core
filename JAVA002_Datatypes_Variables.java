@@ -22,7 +22,7 @@ public class JAVA002_Datatypes_Variables {
         System.out.println("Float Variable: " + floatVar);
         String strVar = "vduczz";
         System.out.println("String Variable: " + strVar);
-
+        
         System.out.println("\n--------------------");
         System.out.println("#vduczz");
     }
