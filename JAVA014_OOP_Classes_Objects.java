@@ -148,6 +148,9 @@ public class JAVA014_OOP_Classes_Objects {
 
         System.out.println("\n--------------------");
         System.out.println("#vduczz");
-
     }
 }
+
+// read more about:
+// sallow copy vs deep copy
+// .clone()
