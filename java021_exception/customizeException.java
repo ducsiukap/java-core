@@ -86,6 +86,7 @@ public class customizeException {
 
             // final: used with vars, methods, classes -> restrict modifiaction
             // finally -> block of code that always executes after try_catch block
+            // finalize() -> method, called by Garbage Collector just before an object is removed.
         }
 
         System.out.println("\n--------------------");
