@@ -1,0 +1,7 @@
+D
+Hello World
+kotlin
+java
+vduczz
+python
+this is a Java String!
