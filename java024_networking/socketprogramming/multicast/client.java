@@ -43,9 +43,6 @@ public class client {
 
             // receive(DatagramPacket packet) // blocking
 
-            byte[] joinNotice = "hello".getBytes();
-            client.send(new DatagramPacket(joinNotice, joinNotice.length, group, port)); // send notice
-
             byte[] buf = new byte[1024];
             while (true) {
 
